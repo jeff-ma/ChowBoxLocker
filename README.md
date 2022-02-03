@@ -6,20 +6,20 @@ a bluetooth controller app and allows the locker to be opened.
 
 Quick specs of locker box:
 
--12volt connected items
-battery pack(10 AA batteries)
-door actuator
-solenoid door lock
-led light
-temperature display in celsius
-temperature controller in celsius
+-12volt connected items\
+battery pack(10 AA batteries)\
+door actuator\
+solenoid door lock\
+led light\
+temperature display in celsius\
+temperature controller in celsius\
 2 flat heating elements
 
--5volt connected items
-battery pack(5 AAA batteries)
-Arduino Uno board
-1602 LCD screem
-10k potentiometer
+-5volt connected items\
+battery pack(5 AAA batteries)\
+Arduino Uno board\
+1602 LCD screem\
+10k potentiometer\
 HC-05 bluetooth module
 
 Installation of BTcontrol.apk file on an Android compatible device with bluetooth is required for pairing and control
